@@ -1,0 +1,13 @@
+{
+  "name": "docker-manager",
+  "description": "app for managing docker over rest",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.16.4",
+    "dockerode": "2.5.7"
+  }
+}
